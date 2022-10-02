@@ -1,0 +1,12 @@
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\bin\Debug\DoAn_QuanLyKhoaHoc.exe.config
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\bin\Debug\DoAn_QuanLyKhoaHoc.exe
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\bin\Debug\DoAn_QuanLyKhoaHoc.pdb
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.csproj.AssemblyReference.cache
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.csproj.SuggestedBindingRedirects.cache
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.Properties.Resources.resources
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.csproj.GenerateResource.cache
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.csproj.CoreCompileInputs.cache
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.exe
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.pdb
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.QuanLyKhoaHoc.resources
+D:\ThucHanhWinform\LTWindows\DoAn_QuanLyKhoaHoc\DoAn_QuanLyKhoaHoc\obj\Debug\DoAn_QuanLyKhoaHoc.QuanLyBaiHoc.resources

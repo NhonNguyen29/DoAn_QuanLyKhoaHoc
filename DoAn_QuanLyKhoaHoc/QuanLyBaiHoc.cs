@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DoAn_QuanLyKhoaHoc
 {
-    public partial class Form1 : Form
+    public partial class QuanLyBaiHoc : Form
     {
-        public Form1()
+        public QuanLyBaiHoc()
         {
             InitializeComponent();
         }
